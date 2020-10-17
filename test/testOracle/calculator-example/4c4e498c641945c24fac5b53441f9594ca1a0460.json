@@ -1,0 +1,20 @@
+{
+  "CalculatorTest-testAddition-9": {
+    "path": "src/test/java/com/github/stokito/unitTestExample/calculator/CalculatorTest.java",
+    "calledMethods": {
+      "Calculator-doAddition-5": {
+        "name": "doAddition",
+        "fullQualifiedSignature": "com.github.stokito.unitTestExample.calculator.Calculator.doAddition(int, int)",
+        "startline": 5,
+        "path":"src/main/java/com/github/stokito/unitTestExample/calculator/Calculator.java"
+      },
+      "Calculator-incrementBy4-9": {
+        "name": "incrementBy4",
+        "fullQualifiedSignature": "com.github.stokito.unitTestExample.calculator.Calculator.incrementBy4(int)",
+        "startline": 9,
+        "path":"src/main/java/com/github/stokito/unitTestExample/calculator/Calculator.java"
+      }
+      },
+    "notFoundMethods": ["assertTrue", "assertEquals"]
+  }
+}

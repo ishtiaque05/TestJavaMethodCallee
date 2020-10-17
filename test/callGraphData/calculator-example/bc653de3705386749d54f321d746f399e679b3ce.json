@@ -1,0 +1,24 @@
+[
+  {
+    "name":"testAddition",
+    "methodSignature":"testAddition()",
+    "path":"/home/ishtiaque/Desktop/calculator-example/src/test/java/com/github/stokito/unitTestExample/calculator/CalculatorTest.java",
+    "startline":9,
+    "endline":16,
+    "calledMethods":[
+      {
+        "name":"doAddition",
+        "packageName":"com.github.stokito.unitTestExample.calculator",
+        "className":"Calculator",
+        "fullQualifiedSignature":"com.github.stokito.unitTestExample.calculator.Calculator.doAddition(int, int)",
+        "signature":"doAddition(int, int)",
+        "path":"/home/ishtiaque/Desktop/calculator-example/src/main/java/com/github/stokito/unitTestExample/calculator/Calculator.java",
+        "startline":5,
+        "endline":5
+      }
+    ],
+    "notFoundMethods":[
+      "assertTrue"
+    ]
+  }
+]

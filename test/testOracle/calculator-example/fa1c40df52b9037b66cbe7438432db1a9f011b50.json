@@ -1,0 +1,28 @@
+{
+  "CalculatorTest-testSum-9": {
+    "path": "src/test/java/com/github/stokito/unitTestExample/calculator/CalculatorTest.java",
+    "calledMethods": {
+      "Calculator-sum-5": {
+        "name": "sum",
+        "fullQualifiedSignature": "com.github.stokito.unitTestExample.calculator.Calculator.sum(int, int)",
+        "startline": 5,
+        "path":"src/main/java/com/github/stokito/unitTestExample/calculator/Calculator.java"
+      },
+      "Calculator-incrementBy4-9": {
+        "name": "incrementBy4",
+        "fullQualifiedSignature": "com.github.stokito.unitTestExample.calculator.Calculator.incrementBy4(int)",
+        "startline": 9,
+        "path":"src/main/java/com/github/stokito/unitTestExample/calculator/Calculator.java"
+      }
+      },
+    "notFoundMethods": ["assertTrue", "assertEquals"]
+  },
+  "CalculatorTest-testMinus-20": {
+    "path": "src/test/java/com/github/stokito/unitTestExample/calculator/CalculatorTest.java",
+    "calledMethods": {},
+    "notFoundMethods": [
+      "We are unable to find the method declaration corresponding to calculator.minus(10, 5)",
+      "assertEquals"
+    ]
+  }
+}

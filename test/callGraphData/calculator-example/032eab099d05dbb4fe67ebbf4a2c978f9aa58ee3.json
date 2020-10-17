@@ -1,0 +1,57 @@
+[
+  {
+    "name":"testSum",
+    "methodSignature":"testSum()",
+    "path":"/home/ishtiaque/Desktop/calculator-example/src/test/java/com/github/stokito/unitTestExample/calculator/CalculatorTest.java",
+    "startline":9,
+    "endline":18,
+    "calledMethods":[
+      {
+        "name":"sum",
+        "packageName":"com.github.stokito.unitTestExample.calculator",
+        "className":"Calculator",
+        "fullQualifiedSignature":"com.github.stokito.unitTestExample.calculator.Calculator.sum(int, int)",
+        "signature":"sum(int, int)",
+        "path":"/home/ishtiaque/Desktop/calculator-example/src/main/java/com/github/stokito/unitTestExample/calculator/Calculator.java",
+        "startline":5,
+        "endline":5
+      },
+      {
+        "name":"incrementBy4",
+        "packageName":"com.github.stokito.unitTestExample.calculator",
+        "className":"Calculator",
+        "fullQualifiedSignature":"com.github.stokito.unitTestExample.calculator.Calculator.incrementBy4(int)",
+        "signature":"incrementBy4(int)",
+        "path":"/home/ishtiaque/Desktop/calculator-example/src/main/java/com/github/stokito/unitTestExample/calculator/Calculator.java",
+        "startline":9,
+        "endline":9
+      }
+    ],
+    "notFoundMethods":[
+      "assertTrue",
+      "assertEquals"
+    ]
+  },
+  {
+    "name":"testMinus",
+    "methodSignature":"testMinus()",
+    "path":"/home/ishtiaque/Desktop/calculator-example/src/test/java/com/github/stokito/unitTestExample/calculator/CalculatorTest.java",
+    "startline":20,
+    "endline":24,
+    "calledMethods":[
+      {
+        "name":"subtract",
+        "packageName":"com.github.stokito.unitTestExample.calculator",
+        "className":"Calculator",
+        "fullQualifiedSignature":"com.github.stokito.unitTestExample.calculator.Calculator.subtract(int, int)",
+        "signature":"subtract(int, int)",
+        "path":"/home/ishtiaque/Desktop/calculator-example/src/main/java/com/github/stokito/unitTestExample/calculator/Calculator.java",
+        "startline":13,
+        "endline":13
+      }
+    ],
+    "notFoundMethods":[
+      "assertEquals"
+    ]
+  }
+]
